@@ -1,2 +1,3 @@
   *  Execute as seguintes linhas de comando
-    - pip install pygame
+    - python3 -m venv pygames
+    - python3 -m pip install pygame
